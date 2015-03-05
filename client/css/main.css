@@ -1,0 +1,27 @@
+video {
+	margin: 10px 10px 10px 10px;
+}
+
+#remoteVideo {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    max-height: 100%
+}
+
+#chatbox {
+    text-align:left;
+    //margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#fff;
+    height:270px;
+    width:450px;
+    border:1px solid #ACD8F0;
+    overflow:auto; 
+}
+
+#dataChannelSend {
+    width:450px;
+    border:1px solid #ACD8F0; 
+}
